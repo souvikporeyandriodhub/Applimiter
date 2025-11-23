@@ -1,0 +1,6 @@
+![Welcome Screen][WhatsApp Image 2025-11-23 at 15 58 27_b805af2b](https://github.com/user-attachments/assets/b5730660-a621-4a0b-a81c-f7985ae76b18)
+![ChooseApp Screen][WhatsApp Image 2025-11-23 at 15 58 27_fd19799e](https://github.com/user-attachments/assets/f899286b-581c-4eb1-b684-b22c95906b1e)
+![SetlimitApp Screen][WhatsApp Image 2025-11-23 at 15 58 24_d7d4da74](https://github.com/user-attachments/assets/a0eb4993-f20c-4e54-a953-612fab1c9406)
+![Screentime Screen][WhatsApp Image 2025-11-23 at 15 58 28_9c8ae355](https://github.com/user-attachments/assets/bf850f02-97a2-4ae6-b382-ecec80d4ad95)
+![Notificarion Screen][WhatsApp Image 2025-11-23 at 15 58 26_e21bb7d9](https://github.com/user-attachments/assets/d3c28bf7-0187-4aa4-87c5-a1ad87e64a33)
+![TimesUp Screen][WhatsApp Image 2025-11-23 at 15 58 24_26daa798](https://github.com/user-attachments/assets/1b5eea83-5faf-4186-9d2c-951274dcc8c6)
