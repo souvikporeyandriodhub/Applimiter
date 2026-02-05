@@ -1,6 +1,1 @@
-![Welcome Screen](https://github.com/user-attachments/assets/b5730660-a621-4a0b-a81c-f7985ae76b18)
-![ChooseApp Screen](https://github.com/user-attachments/assets/f899286b-581c-4eb1-b684-b22c95906b1e)
-![SetlimitApp Screen](https://github.com/user-attachments/assets/a0eb4993-f20c-4e54-a953-612fab1c9406)
-![Screentime Screen](https://github.com/user-attachments/assets/bf850f02-97a2-4ae6-b382-ecec80d4ad95)
-![Notificarion Screen](https://github.com/user-attachments/assets/d3c28bf7-0187-4aa4-87c5-a1ad87e64a33)
-![TimesUp Screen](https://github.com/user-attachments/assets/1b5eea83-5faf-4186-9d2c-951274dcc8c6)
+ 
